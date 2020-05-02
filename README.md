@@ -13,8 +13,8 @@ In a github repository, <i>.ipynb</i> (iPython) notebooks are rendered as static
 
 For the notebooks in this repository, the following urls will activate the designated notebooks:
 
-https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/notes_from_mastering_predictive_analytics_Ch4-5-Manning.ipynb
+https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/blob/master/notes_from_mastering_predictive_analytics_Ch4-5-Manning.ipynb
 
-https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/notes%20from%20deep-learning-with-python-2nd%20edition%20-%20ch%202-4.ipynb
+https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/blob/master/notes%20from%20deep-learning-with-python-2nd%20edition%20-%20ch%202-4.ipynb
 
 Finally, some of the notebooks are rendered via Google's "Colaboratory", or “Colab” for short. Colab is a product from Google Research that enables anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs. Like nbviewer, Colab is free.

@@ -19,8 +19,7 @@ This summary contains bibliographical sources, pointers to existing code (includ
 <br>  
     <li>Source: <a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-predictive-analytics-scikit-learn-and-tensorflow">Mastering Predictive Analytics with scikit-learn and TensorFlow.</a> Alan Fontaine. Packt Publishing, 2018.
     <ul>
-    <li>Code: The original code and notebooks can be found at https://github.com
-       /PacktPublishing/Mastering-Predictive-Analytics-with-scikit-learn-and-TensorFlow.</li>
+    <li>Code: The original code and notebooks can be found at https://github.com/PacktPublishing/Mastering-Predictive-Analytics-with-scikit-learn-and-TensorFlow.</li>
     <li>Personal Notes: Chapters 4 (Introduction to Artificial Neural Networks and TensorFlow) and 5 (Predictive Analytics with TensorFlow and Deep Neural Networks). Chapter 5 focuses on the MNIST handwritten digits dataset with 60K training and 10K testing images each with 28x28 = 728 pixels (features). See: https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/blob/master/notes_from_mastering_predictive_analytics_Ch4-5-Manning.ipynb</li>
     </ul>
     </li>

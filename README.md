@@ -30,4 +30,11 @@ This summary contains bibliographical sources, pointers to existing code (includ
     <li>Personal Notes: Chapter 3 (Introduction to Keras and TensorFlow) and 4 (Getting Started with Neural Networks: Classification and Regression). Chapter 4 covers 3 datasets: IMDB set of 50K polarized movie reviews for predicting overall positive vs. negative reviews using the text content of the review; Reuters set of 8982 training and 2246 testing newswires for determining which of 46 topics best describes overall content; a regression example predicting median price of homes in given Boston suburb in mid-1970s for 506 training and 102 test samples each with 13 numerical features. The notes for these chapters -- 'DLPython2ndCh3.ipynb' and 'DLPython2ndCh4.ipynb' -- are provided in this repository and were originally created in Google's Colab. Simply click on notebook name in the file listing above and you'll be provided access to Colab.</li>
      </ul>
      </li>
+<br>
+     <li>Source: <a href="https://www.tensorflow.org/tutorials/keras/classification">TensorFlow: Basic Classification - Classifying Images of Clothing.</a>
+    <ul>
+    <li>Code:at https://github.com/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb. Enables running of the tutorial either in Juypter's nbviewer or Colab.</li>
+    <li>Personal Notes: Similar to the MNIST dataset of images of handwritten digits, this variation uses the Fashion MNIST dataset of digitized images of clothing. Like MNIST, there are 60K training images and 10K testing images each with 28x28=728 pixels. A copy of a complete run is provided in the files of this repository (fashion classification.ipynb) </li>
+     </ul>
+     </li>
 </ul>

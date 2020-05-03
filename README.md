@@ -10,13 +10,12 @@ This summary contains bibliographical sources, pointers to existing code (includ
 <h3>Sources</h3>
 
 <ul>
-
-<li>
+    <li>Source: <a href="https://www.packtpub.com/big-data-and-business-intelligence/predictive-analytics-tensorflow">Predictive Analytics with TensorFlow.</a> Md. Rezaul Karim, Packt Publishing, 2017.
   <ul>
-    <li>Source: <a href="https://www.packtpub.com/big-data-and-business-intelligence/predictive-analytics-tensorflow">Predictive Analytics with TensorFlow.</a> Md. Rezaul Karim, Packt Publishing, 2017.</li>
     <li>Code: https://github.com/PacktPublishing/Mastering-Predictive-Analytics-with-scikit-learn-and-TensorFlow.</li>
     <li>Personal Notes: Chapter 3 (From Data to Decisions: Getting Started with TensorFlow) and Chapter 7 (Using Deep Neural Networks for Predictive Analytics). Chapter 7 analyzes 'bank telemarketing' data for predicting client subscription to telemarketing programs based on 21 demographic and marketing attributes for 41K clients. See: https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/blob/master/notes_predictive_analytics_with_tensorflow-ch-3-7.ipynb</li>
-</li> 
+  </ul>
+ </li> 
 <br>  
 <li>
   <ul>

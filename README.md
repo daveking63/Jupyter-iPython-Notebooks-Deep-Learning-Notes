@@ -18,7 +18,7 @@ This summary contains bibliographical sources, pointers to existing code (includ
     <li>Personal Notes: Chapter 3 (From Data to Decisions: Getting Started with TensorFlow) and Chapter 7 (Using Deep Neural Networks for Predictive Analytics). Chapter 7 analyzes 'bank telemarketing' data for predicting client subscription to telemarketing programs based on 21 demographic and marketing attributes for 41K clients. See: https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/blob/master/notes_predictive_analytics_with_tensorflow-ch-3-7.ipynbi</li>.
   </ul>
 </li> 
-  
+<br>  
 <li>
   <ul>
     <li>Source: <a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-predictive-analytics-scikit-learn-and-tensorflow">Mastering Predictive Analytics with scikit-learn and TensorFlow.</a> Alan Fontaine. Packt Publishing, 2018.</li>
@@ -26,7 +26,7 @@ This summary contains bibliographical sources, pointers to existing code (includ
     <li>Personal Notes: Chapters 4 (Introduction to Artificial Neural Networks and TensorFlow) and 5 (Predictive Analytics with TensorFlow and Deep Neural Networks). Chapter 5 focuses on the MNIST handwritten digits dataset with 60K training and 10K testing images each with 28x28 = 728 pixels (features). See: https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/blob/master/notes_from_mastering_predictive_analytics_Ch4-5-Manning.ipynb</li>
   </ul>
 </li>
-
+<br>
 <li>
 <ul>
 <li>Source: <a href="https://www.manning.com/books/deep-learning-with-python-second-edition">Deep Learning with Python 2nd Edition.</a> Francois Chollet, Manning Publication, 2020 (currently in MEAP or draft form) (2020 Manning Publication). This book is only available in draft form from Manning. The code for the original version of this book is found at  (although many of the examples in the new version are close to the original.</li>

@@ -1,10 +1,22 @@
 # Jupyter-iPython-Notebooks-Deep-Learning-Notes
-Summary notes from a variety of recent book chapters and articles dealing with Deep Learning and TensorFlow
+Summary bibliography and notes from a variety of recent book chapters and articles dealing with Deep Learning, TensorFlow and Keras.
 
-This repository contains my summarized notes and examples from a range of book chapters, as well as tutorial articles, dealing with building, testing and training deep learning models using TensorFlow and Keras. Many of these are already available in detailed form on github. Currently, my notes from the following sources are included:
+This summary focuses on various bibliographical sources (book chapters, articles, tutorials, and iPython notebooks) focused on understanding, building, testing and training deep learning models using primarily TensorFlow and Keras. When possible, each source details access to existing iPython notebooks that can be executed on either Jupyter.org's <a href="https://nbviewer.jupyter.org/">nbviewer</a> or <a href="https://colab.research.google.com/notebooks/intro.ipynb">Google's Colab</a>. Additionally, and primarily for my own edification, I've also provided access to my own notes for selected parts of the sources. These notes can also be view on either nbviewer or Colab. 
+
+This summary contains bibliographical sources, pointers to existing code (including iPython .ipynb> notebooks), and notes that I've created using either iPython or <a href="https://colab.research.google.com/notebooks/intro.ipynb">Google's Colab</a>.  
+
+<h3>Sources</h3>
 
 <ul>
-<li>Chapters 3 and 7 from Md. Rezaul Karim's Predictive Analytics with TensorFlow (2017 Packt Publishing). The original code and notebooks can be found at https://github.com/PacktPublishing/Predictive-Analytics-with-TensorFlow.</li>
+<li>
+  <ul>
+    <li>Source: Predictive Analytics with TensorFlow. Md. Rezaul Karim, Packt Publishing, 2017.</li>
+    <li>Code: https://github.com/PacktPublishing/Mastering-Predictive-Analytics-with-scikit-learn-and-TensorFlow.<li>
+    <li>Notes: Chapter 3 (From Data to Decisions: Getting Started with TensorFlow) and Chapter 7 (Using Deep Neural Networks for Predictive Analytics). Chapter 7 analyses 'bank telemarketing' data for predicting client subscription based on client related data. See: https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/blob/master/notes_predictive_analytics_with_tensorflow-ch-3-7.ipynb<l/li>.
+      </ul>
+
+     
+      The original code and notebooks can be found at https://github.com/PacktPublishing/Predictive-Analytics-with-TensorFlow.</li>
 <li>Chapters 4 and 5 from Alan Fontaine's Mastering Predictive Analytics with scikit-learn and TensorFlow (2018 Packt Publishing). The original code and notebooks can be found at https://github.com/PacktPublishing/Mastering-Predictive-Analytics-with-scikit-learn-and-TensorFlow.</li>
 <li>Chapter 3 and 4 from Francois Chollet's Deep Learning with Python (2020 Manning Publication). This book is only available in draft form from Manning. The code for the original version of this book is found at https://github.com/fchollet/deep-learning-with-python-notebooks (although many of the examples in the new version are close to the original.</li>
 </ul>

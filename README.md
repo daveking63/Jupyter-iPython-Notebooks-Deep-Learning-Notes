@@ -26,7 +26,8 @@ This summary contains bibliographical sources, pointers to existing code (includ
     <li>Personal Notes: Chapters 4 (Introduction to Artificial Neural Networks and TensorFlow) and 5 (Predictive Analytics with TensorFlow and Deep Neural Networks). Chapter 5 focuses on the MNIST handwritten digits dataset with 60K training and 10K testing images each with 28x28 = 728 pixels (features). See: https://nbviewer.jupyter.org/github/daveking63/Jupyter-iPython-Notebooks-Deep-Learning-Notes/blob/master/notes_from_mastering_predictive_analytics_Ch4-5-Manning.ipynb</li>
   </ul>
 </li>
- 
+
+<li>
 <ul>
 <li>Source: <a href="https://www.manning.com/books/deep-learning-with-python-second-edition">Deep Learning with Python 2nd Edition.</a> Francois Chollet, Manning Publication, 2020 (currently in MEAP or draft form) (2020 Manning Publication). This book is only available in draft form from Manning. The code for the original version of this book is found at  (although many of the examples in the new version are close to the original.</li>
     <li>Code: From first edition is at https://github.com/fchollet/deep-learning-with-python-notebooks</li>
@@ -34,3 +35,4 @@ This summary contains bibliographical sources, pointers to existing code (includ
   </ul>
   
 </li>
+</ul>

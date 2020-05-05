@@ -37,7 +37,7 @@ This summary contains bibliographical sources, pointers to existing code (includ
     <li>Personal Notes: Similar to the MNIST dataset of images of handwritten digits, this variation uses the Fashion MNIST dataset of digitized images of clothing. Like MNIST, there are 60K training images and 10K testing images each with 28x28=728 pixels. A copy of a complete run is provided in the files of this repository (fashion classification.ipynb) </li>
      </ul>
      </li>
-    
+<br>    
     <li>Source: <a href=https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/">TensorFlow 2 Tutorial: Get Started in Deep Learning With tf.keras. Jason Brownlee, 2019</a>
     <ul>
     <li>Code: the code is provided in the article.  I used that code to produce a ipython notebook in Colab (see tf_2_tfKeras_Tutorial.ipynb) in the files with this repository.</li>

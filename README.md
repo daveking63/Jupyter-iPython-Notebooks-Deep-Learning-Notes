@@ -37,4 +37,11 @@ This summary contains bibliographical sources, pointers to existing code (includ
     <li>Personal Notes: Similar to the MNIST dataset of images of handwritten digits, this variation uses the Fashion MNIST dataset of digitized images of clothing. Like MNIST, there are 60K training images and 10K testing images each with 28x28=728 pixels. A copy of a complete run is provided in the files of this repository (fashion classification.ipynb) </li>
      </ul>
      </li>
+    
+    <li>Source: <a href=https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/">TensorFlow 2 Tutorial: Get Started in Deep Learning With tf.keras. Jason Brownlee, 2019</a>
+    <ul>
+    <li>Code: the code is provided in the article.  I used that code to produce a ipython notebook in Colab (see tf_2_tfKeras_Tutorial.ipynb) in the files with this repository.</li>
+    <li>Personal Notes: Covers a wide variety of deep learning algorithms utilizing TensorFlow 2 and tf.keras.  Examples including: Ionosphere binary classification dataset to predicting whether a structure is in the atmosphere or not given radar returns; the Iris multiclass classification dataset for predicting the species of an iris flower given measures of the flower; the Boston Housing regression dataset for predicting housing values (a continuous variable) based on properities of the house and neighborhood; the MNIST dataset of digitized images of handwritten numbers between 0-9 and classified using Convolutional Neural Nets; the Car Sales dataset used to demonstrate LSTM RNN for univariate time series forecasting </li>.
+     </ul>
+     </li>
 </ul>
